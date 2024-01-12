@@ -1,0 +1,23 @@
+.fondo {
+    background-image: url(../img/silla\ comedor.jpg);
+    height: 70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.fondo-h1 {
+    color: white;
+    display: grid;
+    text-align: right;
+    padding: 2rem;
+    font-size: 3rem;
+}
+.fondo-2{
+    background-color: #000000;
+}
+.fondo-3 { 
+    background-color: #f0c50d;
+}
+/*
+color amarillo #f0c50d
+*/
